@@ -3,7 +3,7 @@ var katzDeli = [];
 var ticketNumber = 0;
 
 function takeANumber(katzDeliLine) {
-  katzDeliLine.push(katzDeliLine.length + 1)
+  katzDeliLine.push(ticketNumber)
   ticketNumber ++;
   return "Welcome, you are number " + katzDeliLine.length + " in line and your ticket number is " + ticketNumber + ".";
 }

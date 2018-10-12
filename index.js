@@ -1,3 +1,4 @@
+// an array of ticket numbers waiting to be served
 var katzDeli = [];
 var ticketNumber = 0;
 

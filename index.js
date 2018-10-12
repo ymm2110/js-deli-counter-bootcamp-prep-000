@@ -29,4 +29,5 @@ function currentLine(katzDeliLine){
 }
 
 console.log(takeANumber(katzDeli))
+console.log(takeANumber(katzDeli))
 console.log(katzDeli)

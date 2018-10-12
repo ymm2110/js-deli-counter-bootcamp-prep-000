@@ -28,5 +28,5 @@ function currentLine(katzDeliLine){
   }
 }
 
-takeANumber(katzDeli, "Yuntong")
+console.log(takeANumber(katzDeli))
 console.log(katzDeli)

@@ -31,3 +31,4 @@ function currentLine(katzDeliLine){
 console.log(takeANumber(katzDeli))
 console.log(takeANumber(katzDeli))
 console.log(katzDeli)
+console.log(nowServing(katzDeli))

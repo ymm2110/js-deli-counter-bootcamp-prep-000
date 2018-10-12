@@ -29,3 +29,4 @@ function currentLine(katzDeliLine){
 }
 
 takeANumber(katzDeli, "Yuntong")
+console.log(katzDeli)

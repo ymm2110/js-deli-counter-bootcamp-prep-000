@@ -39,4 +39,5 @@ console.log(katzDeli)
 console.log(nowServing(katzDeli))
 console.log(katzDeli)
 console.log(takeANumber(katzDeli))
-console.log(katzDeli)
+console.log
+(nowServing(katzDeli))
